@@ -63,6 +63,8 @@ Cost = Energy Consumption × Tariff per Unit
 # EXPECTED OUTPUT
 ENERGY CONSUMPTION CALCULATOR
 
+<img width="2076" height="2152" alt="oops 3" src="https://github.com/user-attachments/assets/d3b09004-c6c2-491d-8738-23aa47120b99" />
+
 # APPLICATION FEATURES
 
 User-friendly graphical interface.
